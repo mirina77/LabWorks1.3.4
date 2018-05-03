@@ -1,0 +1,39 @@
+header, footer{
+	background-color: #d9eaf4;
+
+}
+header button, footer button{
+	background-color: #56b2ef;
+	color: #ffffff;
+	padding: 20px;
+}
+header{
+text-align: right;
+}
+footer{
+text-align: left;	
+}
+.content {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #baccd8;
+	margin:10px;
+	padding: 15px;
+}
+.text{
+	background-color: #ede2d0;
+	margin: 15px;
+}
+
+
+.content  button{
+	background-color: #ffffff;
+	color: #56b2ef;
+}
+
+
+.text button{
+	background-color: #af420c;
+	color: #ffffff;
+	padding: 5px;
+}
